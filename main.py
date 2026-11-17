@@ -76,6 +76,6 @@ while caja_abierta:
         print("Gracias por usar el sistema de ventas del Food Truck 'Sabor Urbano'. ¡Hasta luego!")
         caja_abierta = False
     else:
-        print("Opcion No valida, por favor ingrese 1, 2 o 3.")
+        print("Opcion No valida, por favor ingrese 1, 2 o 3.")    
     # fin-if
 #fin-while
